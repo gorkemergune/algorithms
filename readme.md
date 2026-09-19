@@ -2,7 +2,7 @@
 
 > A collection of algorithm and data structure problems I've solved across various platforms.
 
-![Total Solutions](https://img.shields.io/badge/Total%20Solutions-160-blue?style=flat-square)
+![Total Solutions](https://img.shields.io/badge/Total%20Solutions-167-blue?style=flat-square)
 
 ---
 
@@ -14,8 +14,8 @@
 | [AlgoLeague](https://algoleague.com) | 0 | 0 | 9 | **9** |
 | [NeetCode](https://neetcode.io) | 0 | 0 | 7 | **7** |
 | [HackerRank](https://hackerrank.com) | 0 | 0 | 0 | **0** |
-| Competitive | 0 | 0 | 36 | **36** |
-| **Total** | 1 | 0 | 159 | **160** |
+| Competitive | 0 | 0 | 43 | **43** |
+| **Total** | 1 | 0 | 166 | **167** |
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Language | Distribution | Count |
 |----------|-------------|-------|
-| **Python** | `███████████████████░` | 159 (99%) |
+| **Python** | `███████████████████░` | 166 (99%) |
 | **C** | `░░░░░░░░░░░░░░░░░░░░` | 1 (1%) |
 | **C++** | `░░░░░░░░░░░░░░░░░░░░` | 0 (0%) |
 
