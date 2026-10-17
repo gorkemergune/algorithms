@@ -1,3 +1,10 @@
+"""
+Problem: 977. Squares of a Sorted Array
+Link: https://leetcode.com/problems/squares-of-a-sorted-array/
+Difficulty: Easy
+"""
+
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
